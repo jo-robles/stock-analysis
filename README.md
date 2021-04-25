@@ -1,2 +1,2 @@
 # stock-analysis
-Creation of stock analysis for Week 1 challenge
+Creation of stock analysis for Week 2 challenge
